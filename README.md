@@ -1,0 +1,2 @@
+# Activators
+Various windows activators
